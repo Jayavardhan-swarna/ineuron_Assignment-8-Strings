@@ -21,7 +21,7 @@ def minDistance(word1, word2):
     return dp[0][0]  # Return the minimum number of steps
 
 
-# Example usage:
+
 word1 = "sea"
 word2 = "eat"
 result = minDistance(word1, word2)
